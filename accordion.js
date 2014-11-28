@@ -27,7 +27,7 @@ angular.module('ng-accordion', []).directive(
         var toggler = element.find(scope.togglerSelector);
         var section = element.find(scope.sectionSelector);
 
-        element.find(initOpenSection).addClass(scope.activeClass);
+        element.find(scope.initOpenSection).addClass(scope.activeClass);
 
         toggler.on('click', function() {
           var activeSection = jQuery(element.get(0).getElementsByClassName(scope.activeClass));
