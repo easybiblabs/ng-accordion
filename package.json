@@ -1,0 +1,20 @@
+{
+  "name": "imagineeasy-ng-accordion",
+  "version": "0.1.0",
+  "description": "Simple accordion directive for use in Angular apps",
+  "main": "accordion.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easybiblabs/ng-accordion.git"
+  },
+  "keywords": [
+    "angular",
+    "accordion",
+    "imagineeasy"
+  ],
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/easybiblabs/ng-accordion/issues"
+  },
+  "homepage": "https://github.com/easybiblabs/ng-accordion#readme"
+}
