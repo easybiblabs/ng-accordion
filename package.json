@@ -1,6 +1,6 @@
 {
   "name": "imagineeasy-ng-accordion",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple accordion directive for use in Angular apps",
   "main": "accordion.js",
   "repository": {
