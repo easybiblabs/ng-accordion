@@ -1,7 +1,7 @@
 /*
  * ng-accordion
  * Accordion directive for AngularJS
- * Licensed under the MIT license
+ * Licensed under the Apache-2.0 license
  */
 
 angular.module('ng-accordion', []).directive(
